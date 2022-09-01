@@ -7,7 +7,7 @@ def main():
     deleted_folders_count = 0
     deleted_files_count = 0
  
-    path = "/PATH_TO_DELETE"
+    path = "C:\Users\deepa\Desktop\Folder_to_delete"
 
     days = 30
 
